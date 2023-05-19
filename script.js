@@ -1,6 +1,6 @@
-const players = ["John", "Bob", "Alice", "Poppy"];
+var players = ["John", "Bob", "Alice", "Poppy"];
 
-const person = {
+var person = {
   name: "John Doe",
   age: 80,
 	
