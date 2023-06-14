@@ -4,9 +4,9 @@ var person = {
   name: "John Doe",
   age: 80,	
 };
-var team = window.players;
-var team1 = window.players;
-var cap1 = window.person;
+var team = players
+var team1 = players
+var cap1 = person
 // window.players = players;
 // window.person = person;
 // window.team = team;
